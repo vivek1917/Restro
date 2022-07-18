@@ -1,0 +1,30 @@
+Joined the company - Al Fahal International
+
+For the first week of my Internship. Interview was taken by the company and they have given a demo of their websites and software.
+Their main product is resturant software. Then they gave different tasks like making form for new customers(name,budget,type).
+Company provides the information about how they actually works.
+
+Our team, which consist myself, Neeraj and Tisha, was assigned the section to remodel the Restaurant portion of the website.
+
+We segregated our work into different sections and started working on different ideas, which we can combine later on and create a functional website.
+
+
+Our mentor Mr.Dharmesh Shah gave a task of making a website by giving an options like (Resturant,laboratory,Hospital.. etc).
+We decided to make a laboratory website. First we create a functional diagram of our website to get an idea of how much work we have to do.
+
+As our company is international, we were allowed to work from home. Our team came up with different features and function which will be beneficial to possibilities were discussed by us.
+
+There was one drawback as we were not working on site, the UI and backend portion were easy to manage and combine; But the database part is configured to only one device. 
+Temporarily, we all created same databases on our own devices so we can each try on our own level.
+
+We had started to realized that we need to learn some concepts to work further. So we were hands-on trying to learn database connectivity, 
+managing data and revise different technologies for UI like Bootstrap, AngularJS etc. Then we started working on website by following our functional diagram. 
+Our mentor has also provided his guidance when we are facing any difficulty.
+
+
+
+
+
+
+
+
